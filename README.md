@@ -12,7 +12,7 @@ The entire design was done in Fusion 360. You can view it / download it [here](h
 
 ![render of case from fusion 360](images/render.jpg)
 
-![actual built case](images/irl.jpg)
+![actual built case](images/IRL.jpg)
 
 [more photos](https://photos.app.goo.gl/nMJByEWeSShFq6Pd6)
 
