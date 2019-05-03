@@ -8,7 +8,7 @@ It should fit any ATX compliant motherboard, but I've only tried the one motherb
 
 It has space for 3x 3.5" hard drives and a 2.5" hard drive, which are held by seperate 3d printed modules.
 
-The entire design was done in Fusion 360. You can view it / download it [here](https://a360.co/2EToDJn) or use the 
+The entire design was done in Fusion 360. You can view it / download it [here](https://a360.co/2EToDJn) or use the LACC.f3z file attached.
 
 ![render of case from fusion 360](images/render.jpg)
 
